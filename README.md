@@ -1,7 +1,7 @@
 # Regex
 Favorit Regex
 
-## Saudi Phone Number
+## Saudi Mobile Number
 Match All:
 +966*********
 966*********
@@ -11,3 +11,5 @@ Match All:
 ```
 ((\+|00)?(966\d{9}|05\d{8})\W)
 ```
+link:
+[a link] (regexr.com/66kse)
