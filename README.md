@@ -12,4 +12,4 @@ Match All:
 ((\+|00)?(966\d{9}|05\d{8})\W)
 ```
 link:
-[a link] (https://regexr.com/66kse)
+https://regexr.com/66kse
