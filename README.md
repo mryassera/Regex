@@ -1,7 +1,7 @@
 # Regex
 Favorit Regex
 
-# Saudi Phone Number
+## Saudi Phone Number
 Match All:
 +966*********
 966*********
