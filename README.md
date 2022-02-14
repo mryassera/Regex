@@ -1,4 +1,4 @@
-# Regex
+# Regex Mobile Number
 Favorit Regex
 
 ## Saudi Mobile Number
